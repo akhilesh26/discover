@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600');
+body {
+  margin: 0px;
+  background-color: #131A20;
+  font-family: "Open Sans", serif;
+}
+
+#__next-prerender-indicator {
+  display: none;
+}
